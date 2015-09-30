@@ -1,0 +1,20 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "Javascript toy problems",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test"
+  },
+  "author": "Rene Loperena",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "engines": {
+    "node": ">=4.0"
+  }
+}
